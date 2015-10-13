@@ -1,0 +1,11 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);/**/
+/*@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);/**/
+
+body,h1,h2,h3 {
+    font-family: 'Droid Arabic Kufi', sans-serif !important;/**/
+    /*font-family: 'Droid Arabic Naskh', serif !important;/**/
+}
